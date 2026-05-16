@@ -306,4 +306,4 @@ seaborn>=0.12
 ## 📬 Contact
 
 Built by **[Ajinkya Wathore]**
-[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ajinkya-wathore-a94405245/)) · [Email](ajinkyawg@email.com)
+[LinkedIn]((https://www.linkedin.com/in/ajinkya-wathore-a94405245/) · [Email](ajinkyawg@email.com)
